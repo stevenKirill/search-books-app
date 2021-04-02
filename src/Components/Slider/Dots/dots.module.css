@@ -1,0 +1,14 @@
+.dotsContainer {
+    position: absolute;
+    bottom: -60px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.dot {
+    padding: 10px;
+    margin-right: 5px;
+    cursor: pointer;
+    border-radius: 50%;
+}

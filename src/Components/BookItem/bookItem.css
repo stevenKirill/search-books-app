@@ -1,0 +1,38 @@
+.book_list_wrapper {
+    border: 1px solid blue;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+.container {
+    display: flex;
+    margin-bottom: 10px;
+    padding: 10px;
+    justify-content: space-between;
+}
+.delete_button {
+    display: block;
+    width: 100px;
+    padding: 10px;
+    margin-right: 10px;
+}
+.buttons_container {
+    display: flex;
+    width: 300px;
+    margin: 0 auto;
+}
+.book_label {
+    font-size: 20px;
+    margin-right: 10px;
+    font-weight: bold;
+}
+.label_value {
+    font-size: 17px;
+    color: blue;
+}
+.image_container {
+    margin-left: 5%;
+    width: 55%;
+}
+.info_container {
+    width: 40%;
+}

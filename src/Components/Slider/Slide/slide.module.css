@@ -1,0 +1,8 @@
+.slide {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 500px 500px;
+    width: 500px;
+    height: 500px;
+}

@@ -1,0 +1,19 @@
+.navigation_container {
+    width: 450px;
+    margin: 0 auto;
+}
+.navigation_item {
+    margin-left: 10px;
+    list-style: none;
+    font-size: 20px;
+}
+.navigation_items_wrapper {
+    display: flex;
+}
+.navigation_item_link {
+    text-decoration: none;
+    color: black;
+}
+.navigation_item_link:hover {
+    color: blue;
+}

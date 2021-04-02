@@ -1,0 +1,11 @@
+.wrapper {
+    width: 30%;
+    margin: 10px auto;
+    padding: 10px;
+}
+.titleSort, .yearSort {
+    padding: 10px;
+}
+.titleSort {
+    margin-left: 10px;
+}

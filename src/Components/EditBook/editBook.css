@@ -1,0 +1,18 @@
+.editForm {
+    margin-bottom: 10px;
+}
+.edit_buttons_container {
+    width: 200px;
+    margin: 0 auto;
+}
+.save_btn, .cancel_btn {
+    padding: 10px;
+}
+.save_btn {
+    margin-right: 10px;
+}
+.edit_error_text {
+    color: red;
+    text-align: center;
+    font-size: 20px;
+}

@@ -1,0 +1,12 @@
+.arrowWrapper {
+    cursor: pointer;
+    align-items: center;
+    transition: transform ease-in 0.1s;
+    position: absolute;
+    top: 70%;
+    width: 100px;
+}
+.arrow {
+    width: 100px;
+    height: 50px;
+}
