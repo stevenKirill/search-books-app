@@ -1,0 +1,42 @@
+{
+  "files": {
+    "static/js/0.ac61a4b5.chunk.js": "/search-books-app/static/js/0.ac61a4b5.chunk.js",
+    "static/js/0.ac61a4b5.chunk.js.map": "/search-books-app/static/js/0.ac61a4b5.chunk.js.map",
+    "main.css": "/search-books-app/static/css/main.bb770fff.chunk.css",
+    "main.js": "/search-books-app/static/js/main.b34c03a7.chunk.js",
+    "main.js.map": "/search-books-app/static/js/main.b34c03a7.chunk.js.map",
+    "runtime-main.js": "/search-books-app/static/js/runtime-main.0a928717.js",
+    "runtime-main.js.map": "/search-books-app/static/js/runtime-main.0a928717.js.map",
+    "static/js/3.8f8f930f.chunk.js": "/search-books-app/static/js/3.8f8f930f.chunk.js",
+    "static/js/3.8f8f930f.chunk.js.map": "/search-books-app/static/js/3.8f8f930f.chunk.js.map",
+    "static/js/4.4f3c6ff2.chunk.js": "/search-books-app/static/js/4.4f3c6ff2.chunk.js",
+    "static/js/4.4f3c6ff2.chunk.js.map": "/search-books-app/static/js/4.4f3c6ff2.chunk.js.map",
+    "static/js/5.2faea579.chunk.js": "/search-books-app/static/js/5.2faea579.chunk.js",
+    "static/js/5.2faea579.chunk.js.map": "/search-books-app/static/js/5.2faea579.chunk.js.map",
+    "static/js/6.e5af9a9d.chunk.js": "/search-books-app/static/js/6.e5af9a9d.chunk.js",
+    "static/js/6.e5af9a9d.chunk.js.map": "/search-books-app/static/js/6.e5af9a9d.chunk.js.map",
+    "static/js/7.defae19c.chunk.js": "/search-books-app/static/js/7.defae19c.chunk.js",
+    "static/js/7.defae19c.chunk.js.map": "/search-books-app/static/js/7.defae19c.chunk.js.map",
+    "static/js/8.5ddd0274.chunk.js": "/search-books-app/static/js/8.5ddd0274.chunk.js",
+    "static/js/8.5ddd0274.chunk.js.map": "/search-books-app/static/js/8.5ddd0274.chunk.js.map",
+    "index.html": "/search-books-app/index.html",
+    "static/css/main.bb770fff.chunk.css.map": "/search-books-app/static/css/main.bb770fff.chunk.css.map",
+    "static/js/3.8f8f930f.chunk.js.LICENSE.txt": "/search-books-app/static/js/3.8f8f930f.chunk.js.LICENSE.txt",
+    "static/media/genii.jpg": "/search-books-app/static/media/genii.e6a86464.jpg",
+    "static/media/grokaem.jpg": "/search-books-app/static/media/grokaem.99321207.jpg",
+    "static/media/karma.jpg": "/search-books-app/static/media/karma.0f079715.jpg",
+    "static/media/left.png": "/search-books-app/static/media/left.c1cffed3.png",
+    "static/media/morning.png": "/search-books-app/static/media/morning.5e11848f.png",
+    "static/media/podsoznanie.jpg": "/search-books-app/static/media/podsoznanie.6e099fec.jpg",
+    "static/media/pofig.jpg": "/search-books-app/static/media/pofig.4473dff9.jpg",
+    "static/media/samurai.jpeg": "/search-books-app/static/media/samurai.22ec0bf9.jpeg",
+    "static/media/search.png": "/search-books-app/static/media/search.ecc609e4.png",
+    "static/media/trump.jpg": "/search-books-app/static/media/trump.171c561e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a928717.js",
+    "static/js/3.8f8f930f.chunk.js",
+    "static/css/main.bb770fff.chunk.css",
+    "static/js/main.b34c03a7.chunk.js"
+  ]
+}

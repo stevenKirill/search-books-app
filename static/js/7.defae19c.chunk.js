@@ -1,0 +1,2 @@
+(this["webpackJsonpsearch-books-app"]=this["webpackJsonpsearch-books-app"]||[]).push([[7],{64:function(s,a,p){"use strict";p.r(a),a.default=p.p+"static/media/karma.0f079715.jpg"}}]);
+//# sourceMappingURL=7.defae19c.chunk.js.map

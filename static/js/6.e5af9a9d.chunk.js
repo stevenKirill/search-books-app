@@ -1,0 +1,2 @@
+(this["webpackJsonpsearch-books-app"]=this["webpackJsonpsearch-books-app"]||[]).push([[6],{63:function(s,p,a){"use strict";a.r(p),p.default=a.p+"static/media/grokaem.99321207.jpg"}}]);
+//# sourceMappingURL=6.e5af9a9d.chunk.js.map
